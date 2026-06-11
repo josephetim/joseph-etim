@@ -1,0 +1,9 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#1E1B4B"/></linearGradient></defs>
+  <rect width="1200" height="750" fill="url(#a)"/>
+  <g opacity=".18" stroke="#818CF8"><path d="M0 130H1200M0 260H1200M0 390H1200M0 520H1200M0 650H1200"/><path d="M150 0V750M350 0V750M550 0V750M750 0V750M950 0V750"/></g>
+  <path d="M130 570C260 540 300 460 410 470C520 480 540 340 660 360C780 380 820 220 1060 155" stroke="#818CF8" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <g fill="#A5B4FC"><circle cx="130" cy="570" r="13"/><circle cx="410" cy="470" r="13"/><circle cx="660" cy="360" r="13"/><circle cx="1060" cy="155" r="13"/></g>
+  <text x="110" y="120" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="54" font-weight="700">90+</text>
+  <text x="110" y="164" fill="#94A3B8" font-family="Arial, sans-serif" font-size="22">PERFORMANCE RECOVERY</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#070B18"/>
+  <g stroke="#6366F1" stroke-width="3" opacity=".55">
+    <path d="M245 380L445 230L640 375L850 190L1010 365"/>
+    <path d="M245 380L430 545L640 375L835 550L1010 365"/>
+  </g>
+  <g fill="#111827" stroke="#818CF8" stroke-width="3">
+    <circle cx="245" cy="380" r="72"/><circle cx="445" cy="230" r="72"/><circle cx="640" cy="375" r="86"/><circle cx="850" cy="190" r="72"/><circle cx="1010" cy="365" r="72"/><circle cx="430" cy="545" r="72"/><circle cx="835" cy="550" r="72"/>
+  </g>
+  <g fill="#C7D2FE" font-family="Arial" font-size="18" text-anchor="middle"><text x="245" y="387">RAG</text><text x="445" y="237">EVAL</text><text x="640" y="382" font-size="24">LLM</text><text x="850" y="197">TOOLS</text><text x="1010" y="372">SECURE</text><text x="430" y="552">AGENTS</text><text x="835" y="557">DATA</text></g>
+  <text x="90" y="115" fill="#F8FAFC" font-family="Arial" font-size="44" font-weight="700">PRACTICAL AI BUILD LAB</text>
+  <text x="92" y="157" fill="#94A3B8" font-family="Arial" font-size="20" letter-spacing="3">ARCHITECTURE · EVALUATION · SECURITY</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#0C1219"/>
+  <circle cx="980" cy="90" r="270" fill="#B45309" opacity=".14"/>
+  <g transform="translate(150 145)">
+    <rect width="900" height="470" rx="30" fill="#111827" stroke="#374151"/>
+    <text x="55" y="75" fill="#F9FAFB" font-family="Georgia" font-size="36" font-weight="700">Your library</text>
+    <g transform="translate(55 120)">
+      <rect width="160" height="245" rx="10" fill="#92400E"/><rect x="190" width="160" height="245" rx="10" fill="#1E3A8A"/><rect x="380" width="160" height="245" rx="10" fill="#065F46"/><rect x="570" width="160" height="245" rx="10" fill="#4C1D95"/>
+      <g fill="#fff" opacity=".8" font-family="Georgia" font-size="18"><text x="25" y="65">THE QUIET</text><text x="25" y="90">SYSTEM</text><text x="215" y="65">DISTANT</text><text x="215" y="90">SIGNALS</text><text x="405" y="65">BUILDING</text><text x="405" y="90">WELL</text><text x="595" y="65">THE LONG</text><text x="595" y="90">VIEW</text></g>
+    </g>
+  </g>
+</svg>

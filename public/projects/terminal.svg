@@ -1,0 +1,8 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#050914"/>
+  <g transform="translate(120 105)">
+    <rect width="960" height="540" rx="26" fill="#0F172A" stroke="#334155" stroke-width="3"/>
+    <circle cx="42" cy="38" r="8" fill="#F87171"/><circle cx="70" cy="38" r="8" fill="#FBBF24"/><circle cx="98" cy="38" r="8" fill="#34D399"/>
+    <g font-family="Consolas, monospace" font-size="25"><text x="55" y="125" fill="#818CF8">$ ai-docs generate ./src</text><text x="55" y="180" fill="#64748B">Analyzing repository context...</text><text x="55" y="235" fill="#2DD4BF">✓ 24 modules indexed</text><text x="55" y="290" fill="#2DD4BF">✓ Architecture summary created</text><text x="55" y="345" fill="#2DD4BF">✓ API reference updated</text><text x="55" y="425" fill="#E2E8F0">Documentation ready for review.</text><rect x="55" y="465" width="16" height="30" fill="#818CF8"/></g>
+  </g>
+</svg>

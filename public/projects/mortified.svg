@@ -1,0 +1,9 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#090E1A"/>
+  <path d="M0 610C210 510 330 685 560 570C790 455 970 575 1200 415V750H0Z" fill="#312E81" opacity=".46"/>
+  <path d="M0 665C215 565 390 710 620 615C850 520 1030 590 1200 500V750H0Z" fill="#0F766E" opacity=".35"/>
+  <text x="90" y="165" fill="#F8FAFC" font-family="Arial" font-size="64" font-weight="700">MORTIFIED</text>
+  <text x="94" y="214" fill="#94A3B8" font-family="Arial" font-size="20" letter-spacing="5">PLATFORM ARCHITECTURE</text>
+  <g transform="translate(90 290)" fill="#111827" stroke="#475569"><rect width="310" height="170" rx="24"/><rect x="350" width="310" height="170" rx="24"/><rect x="700" width="310" height="170" rx="24"/></g>
+  <g fill="#818CF8"><circle cx="145" cy="345" r="12"/><circle cx="495" cy="345" r="12"/><circle cx="845" cy="345" r="12"/></g>
+</svg>

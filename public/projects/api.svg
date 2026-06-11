@@ -1,0 +1,8 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#07101D"/>
+  <circle cx="600" cy="375" r="225" fill="none" stroke="#1E293B" stroke-width="60"/>
+  <circle cx="600" cy="375" r="225" fill="none" stroke="#6366F1" stroke-width="60" stroke-dasharray="620 790" stroke-linecap="round" transform="rotate(-90 600 375)"/>
+  <path d="M600 375L600 245M600 375L725 430" stroke="#E2E8F0" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="600" cy="375" r="22" fill="#A5B4FC"/>
+  <g fill="#94A3B8" font-family="Arial" font-size="20" text-anchor="middle"><text x="600" y="92">TIMESTAMP</text><text x="1020" y="385">DURATION</text><text x="600" y="690">LOCALIZE</text><text x="175" y="385">CONVERT</text></g>
+</svg>

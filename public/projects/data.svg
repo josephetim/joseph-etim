@@ -1,0 +1,10 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" fill="#07111C"/>
+  <g transform="translate(105 105)">
+    <rect width="990" height="540" rx="28" fill="#0F172A" stroke="#334155"/>
+    <g stroke="#334155" opacity=".8"><path d="M70 115H930M70 215H930M70 315H930M70 415H930"/><path d="M200 80V460M380 80V460M560 80V460M740 80V460"/></g>
+    <path d="M70 390C180 370 230 205 350 250C470 295 515 125 640 170C765 215 830 100 930 125" fill="none" stroke="#2DD4BF" stroke-width="7" stroke-linecap="round"/>
+    <path d="M70 430C180 410 235 330 350 350C465 370 560 250 640 300C720 350 825 230 930 265" fill="none" stroke="#818CF8" stroke-width="7" stroke-linecap="round"/>
+    <text x="70" y="55" fill="#E2E8F0" font-family="Arial" font-size="26" font-weight="700">Indicator comparison</text>
+  </g>
+</svg>
