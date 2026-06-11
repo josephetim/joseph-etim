@@ -31,8 +31,8 @@ certifications live in `content/portfolio.ts`.
 - Keep client work at the outcome and architecture level when source code is
   private.
 - Project art lives in `public/projects/` and is rendered with `next/image`.
-- Replace `public/portrait-placeholder.svg` with a professional portrait and
-  update the filename in `components/about.tsx`.
+- The professional portrait is stored at
+  `public/joseph-etim-headshot.jpeg` and rendered in `components/about.tsx`.
 - Replace `public/Joseph-Etim-Resume.pdf` whenever the resume changes.
 
 ## Theme and color

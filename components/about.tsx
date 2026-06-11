@@ -51,21 +51,14 @@ export function About() {
           <Reveal className="lg:sticky lg:top-28" delay={0.08}>
             <div className="relative aspect-[4/5] overflow-hidden rounded-3xl border border-line bg-elevated shadow-quiet">
               <Image
-                src="/portrait-placeholder.svg"
-                alt="Placeholder for Joseph Etim's professional headshot"
+                src="/joseph-etim-headshot.jpeg"
+                alt="Joseph Etim"
                 fill
-                sizes="(max-width: 1024px) 100vw, 42vw"
+                
+                priority
+                sizes="(max-width: 524px) 100vw, 42vw"
                 className="object-cover"
               />
-              <div className="absolute inset-x-4 bottom-4 rounded-2xl border border-white/10 bg-slate-950/75 p-4 text-slate-50 backdrop-blur-xl">
-                <p className="font-display text-sm font-semibold">
-                  Headshot direction
-                </p>
-                <p className="mt-1 text-xs leading-5 text-slate-400">
-                  Clean, confident, approachable. Business-casual, soft natural
-                  light, neutral background.
-                </p>
-              </div>
             </div>
           </Reveal>
 
